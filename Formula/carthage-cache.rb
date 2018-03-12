@@ -4,7 +4,7 @@
 
 class CarthageCache < Formula
   desc "A simple formula for caching carthage libraries forked from soheilbm/carthage-cache"
-  url "https://github.com/maybeiamme/carthage-cache.git", :tag => "v0.1.10"
+  url "https://github.com/maybeiamme/carthage-cache.git", :tag => "v0.1.11"
   head "https://github.com/maybeiamme/carthage-cache.git", :branch => "master"
   
   depends_on :xcode => ["8.0", :build]
